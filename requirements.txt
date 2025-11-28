@@ -1,2 +1,2 @@
-pip install streamlit
-pip install pandas
+streamlit>=1.49.1
+pandas>=2.3.2
