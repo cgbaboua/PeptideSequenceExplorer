@@ -19,8 +19,11 @@
   - [Format Requirements](#format-requirements)
   - [Format Example](#format-example)
 - [Dependencies](#dependencies)
-- [Deployment](#deployment)
+  - [Python Packages](#python-packages)
+  - [Installation](#installation)
+- [Run the App](#run-the-app)
 - [Additional Resources](#additional-resources)
+- [Contact](#contact)
 
 ## Overview
 
@@ -283,6 +286,7 @@ pip install -r requirements.txt
 ```
 
 ## Run the app
+Application is directly available on this website : [https://peptideseqexplorer-iric.streamlit.app](https://peptideseqexplorer-iric.streamlit.app)
 
 ### Locally
 Run the application locally with:
