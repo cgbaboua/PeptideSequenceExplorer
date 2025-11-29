@@ -1,4 +1,5 @@
 # Exclure le dossier _pycache_
 __pycache__/
-# Exclure le dossier .DS_Store
+# Exclure le dossiers 
 .DS_Store/
+.devcontainer/
