@@ -107,7 +107,7 @@ def chercher_motif(motif, max_results,listes):
     
     # Si le motif est juste des underscores, générer aléatoirement
     if motif == "-" * len(listes):
-        return generer_aleatoires(max_results)
+        return generer_aleatoires(max_results,listes)
     
     # Identifier les listes fixes et leurs valeurs
     fixed_listes = []
